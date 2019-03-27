@@ -1,0 +1,17 @@
+{
+  "name": "babel-plugin-systemjs-to-cjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dst/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leslie",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.4.0"
+  },
+  "devDependencies": {
+    "@types/babel__core": "^7.1.0"
+  }
+}
